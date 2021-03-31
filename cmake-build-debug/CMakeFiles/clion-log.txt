@@ -1,0 +1,4 @@
+C:\Users\Wyatt\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.8194.17\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Wyatt\Desktop\Rope-Data-Structure
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Wyatt/Desktop/Rope-Data-Structure/cmake-build-debug
