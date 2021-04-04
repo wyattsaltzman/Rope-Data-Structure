@@ -16,6 +16,6 @@ int main() {
 
     r.erase(0, 6);
     cout << "Rope after deleting Hello: " << r << endl << endl;
-
+    
     return 0;
 }
